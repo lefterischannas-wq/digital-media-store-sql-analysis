@@ -12,13 +12,13 @@ This project covers the complete lifecycle of working with a relational database
 ## Repository Structure
 ```text
 ├── README.md
-├── database/
-│   └── 00_init_database.sql
-└── queries/
-    ├── 01_employee_table.sql
-    ├── 02_exploratory_analysis.sql
-    ├── 03_views_reporting.sql
-    └── 04_data_manipulation.sql
+└── database/
+    ├── 00_init_database.sql
+    └── queries/
+        ├── 01_employee_table.sql
+        ├── 02_exploratory_analysis.sql
+        ├── 03_views_reporting.sql
+        └── 04_data_manipulation.sql
 ```
 
 ## Key Analytical Questions Covered
